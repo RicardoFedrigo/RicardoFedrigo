@@ -24,4 +24,4 @@ Trabalho como desenvolvedor Node.js a 4 anos, nesse período atuei como desenvol
 </br>
 </br>
 Contato:
-<div> <a href="https://www.linkedin.com/in/ricardo-fedrigo-b923aa18a/"><img height="30rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="ricardo.fedrigo1995@gmail.com"><img height="30rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></div>  
+<div> <a href="https://www.linkedin.com/in/ricardo-fedrigo-b923aa18a/"><img height="30rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:ricardo.fedrigo1995@gmail.com"><img height="30rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></div>  
